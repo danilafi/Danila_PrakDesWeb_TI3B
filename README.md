@@ -1,15 +1,10 @@
-# ▬▬▬★PRAK DesWeb★▬▬▬
+#  💻 Praktikum Desain Web
 
-Nama    : Danila Fitria N.S
-
-NIM     : 21104410074
-
-Kelas   : TI-3B
-
-Jurusan : Teknik Informatika
-
-Kampus  : Universitas Islam Balitar
-
+	Nama    : DANILA FITRIA 
+	NIM     : 21104410074
+	Kelas   : TI-3B
+	Jurusan : Tehnik Informatika
+	Kampus  : Universitas Islam Balitar
 
 ## ‼️ Info
 -  Gambar tidak akan muncul karena tersimpan pada penyimpanan lokal
