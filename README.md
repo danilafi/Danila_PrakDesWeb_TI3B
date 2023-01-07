@@ -15,3 +15,4 @@
 - Pertemuan 1 : [Codepen](https://codepen.io/collection/qOpLEp)
 - Pertemuan 2&3  : [Codepen](https://codepen.io/collection/qOpLEp)
 - Pertemuan 4 : [Codepen](https://codepen.io/collection/mrpakQ)
+- Pertemuan 5 : [Codepen} (https://codepen.io/collection/NqEQGm)
